@@ -1,5 +1,6 @@
 import javax.swing.JOptionPane;
-public class secuencial_indefinida {
+public class BusquedaSecuencial_indefinida 
+{
     public static void main(String[] args) 
     {
       int arreglo[], nElementos;

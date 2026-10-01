@@ -1,6 +1,7 @@
 import java.util.Scanner;
-public class signo_zodiacal {
-    public static void main(String[] args) {
+public class SignoZodiacal {
+    public static void main(String[] args) 
+    {
        Scanner teclado=new Scanner(System.in);
        int fn=0,mn=0;
        System.out.println("\tBIENVENIDO A SU SIGNO ZODIACAL");

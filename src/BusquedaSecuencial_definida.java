@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class secuencial_definida {
+public class BusquedaSecuencial_definida {
     public static void main(String[] args)
     {
        int arreglo[] = {4,1,3,5,2};
